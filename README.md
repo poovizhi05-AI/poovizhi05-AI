@@ -36,8 +36,12 @@
 ---
 
 ## Top Languages
+*java
+*python
+*html
+*css
+*sql
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poovizhi05-AI&layout=compact&theme=tokyonight)
 
 ---
 
